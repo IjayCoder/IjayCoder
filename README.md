@@ -57,5 +57,5 @@ I believe in writing meaningful code, working smart, and sharing knowledge.
 
 <!-- Footer sympa avec compteur de vues -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tonGithub&label=Profile%20views&color=0e75b6&style=flat" alt="Yaji Nonfon GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tonGithub&label=Profile%20views&color=0e75b6&style=flat" alt="Yaji NONFON GitHub profile views" />
 </p>
