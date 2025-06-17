@@ -15,15 +15,15 @@
 <a href="mailto:sonagnonyaji@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 0.5rem; animation: fadeIn 2s ease-in-out;" />
   </a>
-<a href="[https://github.com/tonGithub](https://github.com/IjayCoder/IjayCoder)" target="_blank">
+<a href="https://github.com/IjayCoder]" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0.5rem; animation: fadeIn 1.5s ease-in-out;" />
 </a>
 
-<a href="https://www.youtube.com/@tonYouTube" target="_blank">
+<a href="https://www.youtube.com/@yajiNonfon" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 0.5rem; animation: pulse 1.5s infinite;" />
   </a>
 
-  <a href="https://www.tiktok.com/@tonTikTok" target="_blank">
+  <a href="https://www.tiktok.com/@guapcoder" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="margin: 0.5rem; animation: fadeIn 2s ease-in-out;" />
   </a> 
 
