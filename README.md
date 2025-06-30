@@ -43,7 +43,7 @@
 
 I'm Yaji Nonfon — a passionate backend developer from Benin, based in Accra, Ghana.
 
-I specialize in building solid, scalable, and clean APIs using modern technologies like Node.js, TypeScript, Express, and MongoDB. I’m currently deep-diving into real-world API design through a 30-day backend challenge, pushing my skills by building one useful backend per day.
+I specialize in building solid, scalable, and clean APIs using modern technologies like Node.js, TypeScript, Express, and MongoDB. I’m currently deep-diving into real-world API design through a 40-day backend challenge, pushing my skills by building one useful backend per day.
 
 I believe in writing meaningful code, working smart, and sharing knowledge.
 
