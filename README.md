@@ -3,59 +3,58 @@
 
 <h1>👋 Hi, I'm Yaji Nonfon</h1>
 
-<h3>Backend Developer | Node.js | TypeScript | MongoDB | Freelancer</h3>
+<h3>Freelance Back-End Developer | Node.js · TypeScript · Prisma · MongoDB · Next.js · V0</h3>
 
 <br />
 
-<!-- Réseaux sociaux avec animations -->
+<!-- Réseaux sociaux -->
 <a href="https://www.linkedin.com/in/yaji-nonfon-7185a12a9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0.5rem; animation: fadeIn 1.5s ease-in-out;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:sonagnonyaji@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin: 0.5rem; animation: fadeIn 2s ease-in-out;" />
-  </a>
-<a href="https://github.com/IjayCoder" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0.5rem; animation: fadeIn 1.5s ease-in-out;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<a href="https://www.youtube.com/@yajiNonfon" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 0.5rem; animation: pulse 1.5s infinite;" />
-  </a>
+<a href="https://github.com/IjayCoder" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-  <a href="https://www.tiktok.com/@guapcoder" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="margin: 0.5rem; animation: fadeIn 2s ease-in-out;" />
-  </a> 
 
+
+<a href="https://www.tiktok.com/@guapcoder" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+</a> 
 
 </div>
 
 <!-- Section 2 -->
 <br />
 <div align="center">
-  <h2>🚀 Open to hiring, collaborations, and freelance missions.</h2>
+  <h2>🚀 Open to freelance work, collaborations & backend roles.</h2>
 </div>
 
 <br />
 
 <!-- Whoami Section -->
-### 👨‍💻 Whoami
+### 👨‍💻 About Me
 
-I'm Yaji Nonfon — a passionate backend developer from Benin, based in Accra, Ghana.
+I'm Yaji Nonfon — a passionate backend developer from **Benin**, currently based in **Accra, Ghana**.
 
-I specialize in building solid, scalable, and clean APIs using modern technologies like Node.js, TypeScript, Express, and MongoDB. I’m currently deep-diving into real-world API design through a 40-day backend challenge, pushing my skills by building one useful backend per day.
+I build secure, scalable APIs and custom platforms using modern technologies like **Node.js**, **TypeScript**, **Prisma**, **PostgreSQL**, **MongoDB**, and **Firebase**.  
+For frontend, I use **V0 by Vercel** to design clean, custom interfaces and integrate them smoothly with **Next.js** and **Tailwind CSS**.
 
-I believe in writing meaningful code, working smart, and sharing knowledge.
+I've built real-world projects including a **ticketing system**, a **freelance platform**, and a **social network** — available on my GitHub.
 
-> Whether it's building an MVP, improving system performance, or collaborating on open source, I’m open to solving problems that matter.
+> Whether it's launching an MVP, designing a database schema, or crafting a full-stack app — I love solving real problems with clean, modern code.
 
-🎯 Goal: Master API development at scale.  
-🤝 Available for collaborations, freelance work, or backend roles.  
-📚 Always learning — one project at a time.
+🎯 Goal: Build robust back-end systems and custom tools that matter.  
+🤝 Available for freelance missions, collaborations, or part-time backend roles.  
+📚 Always learning — one solution at a time.
 
 <br/>
 
-<!-- Footer sympa avec compteur de vues -->
+<!-- Footer avec compteur de vues -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tonGithub&label=Profile%20views&color=0e75b6&style=flat" alt="Yaji NONFON GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=IjayCoder&label=Profile%20views&color=0e75b6&style=flat" alt="Yaji NONFON GitHub profile views" />
 </p>
