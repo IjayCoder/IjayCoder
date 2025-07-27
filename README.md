@@ -22,7 +22,7 @@
 
 
 
-<a href="https://www.tiktok.com/@guapcoder" target="_blank">
+<a href="https://www.tiktok.com/@ijay_dev?_t=ZM-8yNylMwJJJO&_r=1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a> 
 
