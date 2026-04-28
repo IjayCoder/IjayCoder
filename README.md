@@ -71,7 +71,7 @@ You can explore all endpoints, test authentication, and browse the complete API 
 | | |
 |---|---|
 | Portfolio | [yajidev.intlineconnect.com](https://yajidev.intlineconnect.com) |
-| LinkedIn | [linkedin.com/in/yajinonfon-7185a12a9](https://linkedin.com/in/yajinonfon-7185a12a9) |
+| LinkedIn | [linkedin.com/in/yajinonfon](https://linkedin.com/in/yajinonfon) |
 | Email | sonagnonyaji@gmail.com |
 | WhatsApp | +233 532 606 416 |
 | Location | Accra, Ghana — Available remotely |
