@@ -1,60 +1,81 @@
-<!-- Section 1 -->
-<div align="center" style="background-color:#014421; padding: 2rem 1rem; color: white;">
+# Yaji Nonfon — Backend Developer
 
-<h1>👋 Hi, I'm Yaji Nonfon</h1>
+**Node.js · TypeScript · PostgreSQL · Prisma · Express.js**
 
-<h3>Freelance Back-End Developer | Node.js · TypeScript · Prisma · MongoDB · Next.js · V0</h3>
+Freelance backend developer based in Accra, Ghana. I build secure, scalable REST APIs and complete web applications for entrepreneurs and startups across Africa and beyond.
 
-<br />
+---
 
-<!-- Réseaux sociaux -->
-<a href="https://www.linkedin.com/in/yaji-nonfon-7185a12a9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+## What I Build
 
-<a href="mailto:sonagnonyaji@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+- **REST APIs** — Clean architecture, JWT authentication, role-based access control
+- **Web Applications** — Full-stack delivery with Next.js and Tailwind CSS when needed
+- **Billing & Finance Systems** — Quotes, contracts, invoices, payments with full traceability
+- **Mobile-First Platforms** — Responsive web apps and React Native mobile applications
 
-<a href="https://github.com/IjayCoder" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+---
 
+## Projects
 
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Billing SaaS](https://apibill.intlineconnect.com/api/docs) | Complete invoicing system — quotes, contracts, invoices, receipts, audit logs | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
+| [Mp Recharge](https://github.com/IjayCoder) | Mobile-first financial transaction platform — 100+ active users | Node.js · TypeScript · Next.js · React Native | ✅ Live |
+| [Ticket Management](https://github.com/IjayCoder/ticket-management) | Role-based ticket platform with JWT auth and email notifications | Node.js · TypeScript · Prisma · PostgreSQL | ✅ Live |
+| [SmartQueue](https://github.com/IjayCoder/smart-queue) | QR-based queue management system with real-time tracking | Node.js · Next.js · Firebase Firestore | ✅ Live |
+| [AI Summarizer](https://github.com/IjayCoder/summarizer) | AI-powered document summarizer using Hugging Face API | Node.js · TypeScript · Next.js | ⚙️ Built  |
+| [Order Management API](https://github.com/IjayCoder/order-management-api) | Complete order management REST API with product and inventory tracking | Node.js · TypeScript · Prisma · PostgreSQL | ⚙️ Built  |
 
-<a href="https://www.tiktok.com/@ijay_dev?_t=ZM-8yNylMwJJJO&_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a> 
+---
 
-</div>
+## Tech Stack
 
-<!-- Section 2 -->
-<br />
-<div align="center">
-  <h2>🚀 Open to freelance work, collaborations & backend roles.</h2>
-</div>
+**Backend**
+```
+Node.js   TypeScript   Express.js   Prisma ORM   REST API Design   JWT Auth   Zod
+```
 
-<br />
+**Frontend**
+```
+Next.js   React   React Native   Tailwind CSS   Shadcn/UI
+```
 
-<!-- Whoami Section -->
-### 👨‍💻 About Me
+**Databases**
+```
+PostgreSQL   MongoDB   Firebase Firestore
+```
 
-I'm Yaji Nonfon — a passionate backend developer from **Benin**, currently based in **Accra, Ghana**.
+**Tools**
+```
+Git   Docker   Swagger UI   Postman   Render   Railway
+```
 
-I build secure, scalable APIs and custom platforms using modern technologies like **Node.js**, **TypeScript**, **Prisma**, **PostgreSQL**, **MongoDB**, and **Firebase**.  
-For frontend, I use **V0 by Vercel** to design clean, custom interfaces and integrate them smoothly with **Next.js** and **Tailwind CSS**.
+**Integrations**
+```
+Stripe   Paystack   FedaPay   Nodemailer   Hugging Face API   PDFKit
+```
 
-I've built real-world projects including a **ticketing system**, a **freelance platform**, and a **social network** — available on my GitHub.
+---
 
-> Whether it's launching an MVP, designing a database schema, or crafting a full-stack app — I love solving real problems with clean, modern code.
+## Live API Demo
 
-🎯 Goal: Build robust back-end systems and custom tools that matter.  
-🤝 Available for freelance missions, collaborations, or part-time backend roles.  
-📚 Always learning — one solution at a time.
+The Billing SaaS API is fully documented and deployed in production.
+You can explore all endpoints, test authentication, and browse the complete API reference:
 
-<br/>
+**[apibill.intlineconnect.com/api/docs](https://apibill.intlineconnect.com/api/docs)**
 
-<!-- Footer avec compteur de vues -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IjayCoder&label=Profile%20views&color=0e75b6&style=flat" alt="Yaji NONFON GitHub profile views" />
-</p>
+---
+
+## Contact
+
+| | |
+|---|---|
+| Portfolio | [yajidev.intlineconnect.com](https://yajidev.intlineconnect.com) |
+| LinkedIn | [linkedin.com/in/yajinonfon-7185a12a9](https://linkedin.com/in/yajinonfon-7185a12a9) |
+| Email | sonagnonyaji@gmail.com |
+| WhatsApp | +233 532 606 416 |
+| Location | Accra, Ghana — Available remotely |
+
+---
+
+*Open to freelance projects, remote contracts, and long-term collaborations.*
